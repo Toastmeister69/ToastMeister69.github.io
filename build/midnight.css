@@ -727,12 +727,12 @@ body {
         --text-message-preview-low-sat: red;
         --text-muted: var(--text-5);
         --text-muted-on-default: var(--text-4);
-        --text-normal: var(--text-3);
+        --text-normal: var(--text-6);
         --text-positive: var(--green-1);
         --text-primary: var(--text-3);
         --text-secondary: var(--text-4);
         --text-warning: var(--yellow-1);
-        --text-default: var(--text-3);
+        --text-default: var(--text-7);
         --text-feedback-critical: var(--red-1);
         --text-feedback-positive: var(--green-1);
         --text-feedback-info: red;
